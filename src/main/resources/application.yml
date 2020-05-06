@@ -1,9 +1,6 @@
 server:
   port: 8888
 
-#server.port=8888
-#shift + f6 : 이름바꾸기
-
-
-
-
+spring:
+  messeages:
+    basename: messages
